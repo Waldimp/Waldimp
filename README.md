@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=640&lines=Angular+%C2%B7+Microfrontends+%C2%B7+Native+Federation;Python+%C2%B7+FastAPI+%C2%B7+.NET+%C2%B7+Node.js;Vertex+AI+%C2%B7+Gemini+%C2%B7+RAG+%C2%B7+Google+ADK;Next.js+%C2%B7+Supabase+%C2%B7+React+Native" alt="Angular · Python · FastAPI · .NET · Vertex AI · Gemini" />
 
-<a href="https://www.linkedin.com/in/walter-mejia-0a38231a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/waltermejiadev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/San%20Salvador%2C%20SV-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="San Salvador, El Salvador" />
 
 </div>
